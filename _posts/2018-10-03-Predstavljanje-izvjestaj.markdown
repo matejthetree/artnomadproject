@@ -37,12 +37,12 @@ U nedjelju 30. rujna 2018. u šumama istarskog hrasta Crnike nadomak Pule, umjet
 
 
 
-S druge strane rad na bijeloj tkanini postavljen u šumi odvlači pažnju svojom bjelinom i poziva nas na intervenciju, što Valentina radi uzimajući dijelove lišća i grana iz prirode i otiskuje ih na platno kako bi započela i obilježila novi krajolik. Umjetničkom intervencijom stvara site specific rad kao najavu daljnjih umjetničkih istraživanja. 
+S druge strane rad na bijeloj tkanini postavljen u šumi odvlači pažnju svojom bjelinom i poziva nas na intervenciju, što Valentina radi uzimajući dijelove lišća i grana iz prirode i otiskuje ih na platno kako bi započela i obilježila novi krajolik. Umjetničkom intervencijom stvara site specific rad kao najavu daljnjih umjetničkih istraživanja.
 
 ![Placeholder](/images/photography/valentina-platno.jpg#full)
 
 ## Igor
-Fotografije radova vjerno dočaravaju Igorov osjećaj za detalje i atmosferu same prisutnosti što radove čini još posebnijima. 
+Fotografije radova vjerno dočaravaju Igorov osjećaj za detalje i atmosferu same prisutnosti što radove čini još posebnijima.
 
 Pregledajte ostale slike u našoj <a href="https://www.artnomadproject.com/gallery/" target="_blank">galeriji</a>
-i pratite nas na <a href="https://www.instagram.com/artnomadproject/" target="_blank">Instagramu</a> i <a href="https://www.instagram.com/artnomadproject/" target="_blank">Facebooku</a>.
+i pratite nas na <a href="https://www.instagram.com/artnomadproject/" target="_blank">Instagramu</a> i <a href="https://www.facebook.com/artnomadproject/" target="_blank">Facebooku</a>.
