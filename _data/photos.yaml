@@ -1,0 +1,33 @@
+photos:
+    - title: Star one
+      img: nikola-voda-centar
+      country: Croatia
+      album: Predstavljanje
+    - title: Star two
+      img: nikola-voda-oko
+      country: Croatia
+      album: Predstavljanje
+    - title: Star three
+      img: nikola-plaza
+      country: Croatia
+      album: Predstavljanje
+    - title: Nikola Faller portrait
+      img: nikola-portret
+      country: Croatia
+      album: Predstavljanje
+    - title: Mandala one
+      img: valentina-drva-krupni
+      country: Croatia
+      album: Predstavljanje
+    - title: Mandala two
+      img: valentina-drva-siroki
+      country: Croatia
+      album: Predstavljanje
+    - title: Leaves
+      img: valentina-platno
+      country: Croatia
+      album: Predstavljanje
+    - title: Projection
+      img: valentina-projekcija
+      country: Croatia
+      album: Predstavljanje
