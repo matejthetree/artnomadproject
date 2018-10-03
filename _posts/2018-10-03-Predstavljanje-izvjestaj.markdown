@@ -7,6 +7,7 @@ image: /images/photography/valentina-projekcija.jpg
 author: Valentina Grubačević
 tags:
   - anProject
+  - početak
   - predstavljanje
 ---
 
