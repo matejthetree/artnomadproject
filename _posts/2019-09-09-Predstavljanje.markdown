@@ -13,7 +13,7 @@ tags:
   - Igor
 ---
 
-Dana 27. i 30. rujna imati ćemo predstavljanje projekta u Puli. Kao polaznici projekta odabrani su Valentina Grubačević, Nikola Faller i Igor Popović. U nastavku teksta slijedi program predstavljanja...
+Dana 27. i 30. rujna 2018. imati ćemo predstavljanje Art Nomad projekta u Puli. Kao polaznici projekta odabrani su Valentina Grubačević, Nikola Faller i Igor Popović. U nastavku teksta slijedi program predstavljanja...
 
 ![Placeholder](/assets/images/cesta-ljudi.jpg#full)
 
