@@ -3,8 +3,9 @@
   <div class="grid">
     <div class="subscribe" id="subscribe">
       <div class="subscribe__container">
-        <span class="subscribe__title">Pretplata</span>
-        <p class="subscribe__text">Pretplatite se na obavijesti o novim postovima.</p>
+        <span class="subscribe__title">Follow Us</span>
+        {% include social.html %}
+
         {% include subscribe-form.html %}
       </div>
     </div>
@@ -14,7 +15,6 @@
     <div class="footer__container">
       {% tags_list :threshold => 1, :sort_by => count, :order_by => desc, :limit => 5 %}
 
-      {% include social.html %}
     </div>
   </div>
 </footer>
