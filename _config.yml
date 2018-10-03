@@ -34,7 +34,7 @@ formcarry: https://formcarry.com/s/aMdYLtgI79U
 disqus: artnomadproject-com
 
 # MailChimp settings
-mailchimp_action: https://artnomadproject.us19.list-manage.com/subscribe/post?u=5ab1895e8fb180aed0ac6591e&amp;id=a5569c92b6
+mailchimp_action: https://artnomadproject.us19.list-manage.com/subscribe/post-json?u=5ab1895e8fb180aed0ac6591e&amp;id=a5569c92b6
 mailchimp_input: b_5ab1895e8fb180aed0ac6591e_a5569c92b6
 
 # Author settings
