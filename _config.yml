@@ -43,6 +43,10 @@ author:
     bio: digitalni nomad, zaljubljenik u umjetnost i strastveni putnik.
     url: http://matejthetree.github.com
 
+  - name: Valentina Grubačević, Mag. educ. art.
+    bio: Valentina Grubačević magistrirala je na Umjetničkoj akademiji u Osijeku, smjer grafike. Tokom studija osnovala je “Klub studenata Umjetničke akademije” preko kojeg je organizirala umjetnička događanja te je dobitnica Dekanove nagrade za uspješnost na studiju. Sudjelovala je na nizu umjetničkih događaja, voditeljica niz radionica te je organizatorica umjetničkih projekata "Baranja animation festivala",  "ReArt festivala umjetnosti i kreativnosti“ te međunarodnih projekata preko eTwinning, Erasmus+ platforme. Osim umjetničkim radom bavi se i pedagoškim radom te piše edukativne članke za izdavačku kuću Profil/Klett. Aktivna u izlagačkim djelatnostima, postala član HDLU-a Osijek 2010. "Prvu nagradu žirija" za najbolju grafičku instalaciju dobila je na izložbi “GrafičaRi” 2013. godine radom „Strukture komunikacije“ u Malom salonu, MMSU, Rijeka. Bavi se medijem crteža, grafike, umjetničke instalacije i soft skulpture.
+    url: https://valentinagrubacevic.blogspot.com/
+
 # Build settings
 markdown: kramdown
 plugins:

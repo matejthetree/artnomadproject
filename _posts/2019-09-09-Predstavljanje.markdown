@@ -2,10 +2,10 @@
 layout: post
 title: "Predstavljanje projekta"
 date: 2018-09-09
-description: 
+description:
 image: /assets/images/jungle-kanjon.jpg
 author: Matej Simunic
-tags: 
+tags:
   - anProject
   - polaznici
   - Nikola
@@ -26,7 +26,7 @@ Na kraju predstavljanja, skulptura će se porinuti u more.
 Valentina će svoj rad predstaviti u nedjelju, 30. rujna. Lokacija će biti naknadno objavljena.
 
 ## Igor Popović
-Igor će fotografirati Valentinine i Nikoline umjetničke radove, te će se fotografije predstaviti na http://www.anproject.com u prvom tjednu listopada.
+Igor će fotografirati Valentinine i Nikoline umjetničke radove, te će se fotografije predstaviti na http://www.artnomadproject.com u prvom tjednu listopada.
 
 Nakon predstavljanja, objaviti ćemo više detalja o svakom umjetniku na našoj web stranici.
 
