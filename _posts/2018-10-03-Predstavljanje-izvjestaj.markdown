@@ -23,7 +23,11 @@ U četvrtak 27. rujna 2018. krenuvši od Foruma u Puli i noseći svoju skulpturu
 ![Placeholder](/images/photography/nikola-voda-oko.jpg#full)
 
 
-Skulptura od slame u obliku zvijezde predstavlja poruku u boci, ali i putokaz s obzirom na to da su zvijezde moreplovcima godinama služile kao nit vodilje i orijentir. Skulptura zvijezde je uvod u Art Nomad Project kojim se predstavlja jedno putovanje u nove svjetove. Fotografije ispod vode je napravio umjetnik Igor Popović povezujući simboliku zvijezde, projekta, vode i tradicionalnog materijala- slame.
+Skulptura od slame u obliku zvijezde predstavlja poruku u boci, ali i putokaz s obzirom na to da su zvijezde moreplovcima godinama služile kao nit vodilje i orijentir. Skulptura zvijezde je uvod u Art Nomad Project kojim se predstavlja jedno putovanje u nove svjetove.
+
+ ![Placeholder](/images/photography/nikola-portret.jpg)
+
+ Fotografije ispod vode je napravio umjetnik Igor Popović povezujući simboliku zvijezde, projekta, vode i tradicionalnog materijala- slame.
 
 ## Valentina i Istarski hrast
 
