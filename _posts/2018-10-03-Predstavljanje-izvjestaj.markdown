@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Počeli smo"
+title: "Početak Art Nomada"
 date: 2018-10-03
 description: Što slijedeće?
 image: /images/photography/valentina-projekcija.jpg
@@ -29,19 +29,20 @@ Skulptura od slame u obliku zvijezde predstavlja poruku u boci, ali i putokaz s 
 
  Fotografije ispod vode je napravio umjetnik Igor Popović povezujući simboliku zvijezde, projekta, vode i tradicionalnog materijala- slame.
 
-## Valentina i Istarski hrast
+## Valentina i istarski hrast
 
 
-U nedjelju 30. rujna 2018. u šumama Istarskog hrasta nadomak Pule umjetnica Valentina Grubačević je predstavila svoje radove. Prvi  rad vezan uz žicu i staklo pod nazivom „Put u središte sebe” otkriva srce unutar šumske priče. Osnovna simbolika kruga, cjelovitost i jedinstvo stvara poveznicu u šumi kao izvorištem, kao početkom za putovanje.
+U nedjelju 30. rujna 2018. u šumama istarskog hrasta Crnike nadomak Pule, umjetnica Valentina Grubačević predstavila je svoje radove. Prvi  rad vezan uz žicu i staklo pod nazivom „Put u središte sebe” otkriva srce unutar šumske priče. Osnovna simbolika kruga, cjelovitost i jedinstvo stvara poveznicu u šumi kao izvorištem, kao početkom za putovanje.
  ![Placeholder](/images/photography/valentina-drva-krupni.jpg)
 
 
 
-S druge strane rad na bijeloj tkanini postavljen u šumi odvlači pažnju svojom bjelinom i poziva nas na intervenciju, što Valentina radi uzimajući dijelove lišća i grana iz prirode i otiskuje ih na platno kako bi započela i obilježila novi krajolik. Umjetničkom intervencijom stvara site specific rad kao najavu daljnjih umjetničkih istraživanja. Fotografije radova vjerno dočaravaju Igorov osjećaj za detalje i atmosferu same prisutnosti što radove čini još posebnijima.
+S druge strane rad na bijeloj tkanini postavljen u šumi odvlači pažnju svojom bjelinom i poziva nas na intervenciju, što Valentina radi uzimajući dijelove lišća i grana iz prirode i otiskuje ih na platno kako bi započela i obilježila novi krajolik. Umjetničkom intervencijom stvara site specific rad kao najavu daljnjih umjetničkih istraživanja. 
 
 ![Placeholder](/images/photography/valentina-platno.jpg#full)
 
 ## Igor
+Fotografije radova vjerno dočaravaju Igorov osjećaj za detalje i atmosferu same prisutnosti što radove čini još posebnijima. 
 
-Prekrasne slike sa predstavljanja imamo zahvaljujući Igoru. Pregledajte ostale slike u našoj <a href="https://www.artnomadproject.com/gallery/" target="_blank">galeriji</a>
+Pregledajte ostale slike u našoj <a href="https://www.artnomadproject.com/gallery/" target="_blank">galeriji</a>
 i pratite nas na <a href="https://www.instagram.com/artnomadproject/" target="_blank">Instagramu</a> i <a href="https://www.instagram.com/artnomadproject/" target="_blank">Facebooku</a>.
